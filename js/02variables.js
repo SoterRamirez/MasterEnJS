@@ -1,3 +1,5 @@
+'use strict'
+//Si quiero que mi codigo se adecue más a los estandares de JS poner use strict, haciendo  buenas practicas
 //Variable
 //Contenedor de información.
 
