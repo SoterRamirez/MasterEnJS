@@ -15,10 +15,10 @@ var verdader_falso = true;
 var numero_falso = "33"
 Number();
 
-alert (Number(numero_falso)+7);
+alert (typeof cadena_texto);
 
 //parseInt te convierte un algo a un numero entero.
-
 //parseFloat a un numero con decimales si tiene que tener decimales.
-
 //Number a un numero genérico.
+
+//typeof Sirve para detectar el tipo de dato de una variable

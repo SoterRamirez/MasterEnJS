@@ -6,3 +6,4 @@
 ### Sec 6 Clas 20 Let y Var
 ### Sec 6 Class 21 Constantes
 ### Sec 7 Class 22 Operadores y tipos de datos
+### Sec 7 Class 23 Detectar el tipo de datos con Typeof
